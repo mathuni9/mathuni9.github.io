@@ -8,4 +8,4 @@
   - A forma de vender o produto (áudio, animação, vídeo, etc) escolhida pelos alunos, não deve ultrapassar 2 minutos;
   - O trabalho deve ser entregue em um CD, com o Nome, RA e Turma escritos na capa do CD;
   - Entrega dia 11/10/2016
-  - Próxima aula 04/10/2016 não haverá matéria. O professor irá estar na sala exclusivamente para tirar dúvidas sobre o trabalho.
+  
